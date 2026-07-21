@@ -107,7 +107,7 @@ export default function Projects() {
           <a
             className="p-row"
             key={p.title}
-            href={p.href}
+            href={p.href.startsWith("http") ? p.href : undefined}
             onMouseEnter={() => show(i)}
             target={p.href.startsWith("http") ? "_blank" : undefined}
             rel={p.href.startsWith("http") ? "noreferrer" : undefined}

@@ -61,7 +61,7 @@ export default function StorySequence() {
         scrollTrigger: {
           trigger: root.current,
           start: "top top",
-          end: "+=4600",
+          end: "+=3700",
           pin: ".story-pin",
           scrub: 1,
           anticipatePin: 1,

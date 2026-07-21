@@ -38,7 +38,7 @@ export const experience = [
   },
   {
     role: "Full Stack Development Intern",
-    company: "Retail IT Sols",
+    company: "Retail Sols Inc",
     period: "Apr 2026 — Jun 2026",
     description:
       "Contributed to full-stack web development using Next.js, React, and Git, supporting both frontend interfaces and backend functionality. Worked within a collaborative development workflow to build, maintain, and improve scalable business applications.",
