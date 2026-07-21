@@ -67,8 +67,7 @@ export const skills = [
 export const projects = [
   {
     title: "Paracosm",
-    // TODO: replace with the real one-line description
-    description: "An AI-powered alternate reality simulator that transforms creative prompts into immersive, visually generated worlds. Built to showcase the intersection of artificial intelligence, full-stack development, and interactive user experiences.",
+    description: "Turn a single idea into an extraordinary universe. From futuristic cities to mythical kingdoms, Paracosm brings your imagination to life with AI-generated worlds, original characters, and immersive stories. Built as a full-stack AI application.",
     href: "#",
     // Drop the real file at /public/images/paracosm.png (or .jpg) and update:
     image: null as string | null,
@@ -82,8 +81,7 @@ export const projects = [
   },
   {
     title: "Local Lens",
-    // TODO: replace with the real one-line description
-    description: "A native iOS application built with SwiftUI that enables users to discover and explore nearby locations through a clean, intuitive interface. Designed with a focus on performance, usability, and a seamless mobile experience.",
+    description: "Discover restaurants, cafés, attractions, and hidden gems worth visiting through a seamless, map-first experience. Built entirely in SwiftUI with Apple's MapKit framework, Local Lens combines native performance with intuitive location-based exploration.",
     href: "#",
     // Drop the real file at /public/images/local-lens.png (or .jpg) and update:
     image: null as string | null,

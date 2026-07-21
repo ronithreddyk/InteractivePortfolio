@@ -386,7 +386,7 @@ body {
   position: fixed;
   z-index: 90;
   top: 0; left: 0;
-  width: 340px;
+  width: 638px;
   pointer-events: none;
   opacity: 0;
   transform: scale(0.9);
@@ -400,7 +400,7 @@ body {
   box-shadow: 0 30px 80px rgba(0, 0, 0, 0.5);
 }
 .p-visual {
-  height: 210px;
+  height: 394px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -423,7 +423,7 @@ body {
 }
 .p-info { padding: 16px 18px; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; row-gap: 4px; column-gap: 14px; }
 .p-info b { font-family: var(--font-playfair), Georgia, serif; font-weight: 400; font-size: 20px; }
-.p-info small { font-size: 8px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--color-muted-dark); white-space: nowrap; }
+.p-info small { font-size: 12px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--color-muted-dark); white-space: nowrap; }
 
 /* =========================================================
    ACT V — CONTACT / OUTRO
