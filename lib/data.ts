@@ -74,7 +74,7 @@ export const projects = [
     video: "/videos/paracosmfdemo-preview.mp4" as string | null,
     poster: "/videos/paracosmfdemo-poster.jpg" as string | null,
     // Small label shown on the hover preview card — edit this freely.
-    tag: "React • Node • Python • REST",
+    tag: "Python • REST • Vanilla • HTML • CSS",
     // Text shown on the right-hand call-to-action.
     cta: "Preview",
     accent: "linear-gradient(135deg,#1c1712,#3a2418 60%,#C8281E)",
