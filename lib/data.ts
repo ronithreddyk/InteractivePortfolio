@@ -25,7 +25,7 @@ export const experience = [
   {
     role: "Software Engineer Intern",
     company: "Real Variable",
-    period: "Jun 2024 — Aug 2024",
+    period: "Jun 2024 — Jul 2024",
     description:
       "Collaborated with the engineering team to build and refine responsive web interfaces using HTML, CSS, React, and JavaScript. Contributed to UI development and design improvements, helping deliver polished, user-focused digital experiences across projects.",
   },
