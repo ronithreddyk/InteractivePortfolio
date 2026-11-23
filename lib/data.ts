@@ -18,7 +18,7 @@ export const education = {
   degree: "B.S. Computer Science",
   gpa: "3.5 GPA",
   yearStart: "2022",
-  yearEnd: "2025",
+  yearEnd: "2026",
 };
 
 export const experience = [
@@ -27,21 +27,21 @@ export const experience = [
     company: "Real Variable",
     period: "Jun 2024 — Jul 2024",
     description:
-      "Collaborated with the engineering team to build and refine responsive web interfaces using HTML, CSS, React, and JavaScript. Contributed to UI development and design improvements, helping deliver polished, user-focused digital experiences across projects.",
+      "Developed responsive, cross-browser web pages using HTML, CSS, JavaScript, React and Bootstrap. Collaborated with designers to implement Figma mockups into functional user interfaces, iterated based on feedback, and used Git for version control in a team-based, Agile workflow.",
   },
   {
-    role: "Marketing & IT Intern",
+    role: "IT & Marketing Associate",
     company: "Bower School of Entrepreneurship",
     period: "Jun 2025 — Jul 2025",
     description:
-      "Developed digital marketing initiatives and engagement strategies to strengthen the school's online presence while contributing to the redesign of its website. Created visual content and collaborated across marketing and technology to enhance student outreach and user experience.",
+      "Partnered with marketing to test layouts and web experiences using React, HTML/CSS, and Figma, lifting average session duration ~25%. Redesigned and rebuilt the landing page and navigation to increase click-through on key calls-to-action ~20%, and delivered fully responsive, cross-browser pages that reduced bounce rate ~15% and modernized the brand's digital presence.",
   },
   {
-    role: "Full Stack Development Intern",
+    role: "Full Stack Engineering Intern",
     company: "Retail Sols Inc",
     period: "Apr 2026 — Aug 2026",
     description:
-      "Contributed to full-stack web development using Next.js, React, and Git, supporting both frontend interfaces and backend functionality. Worked within a collaborative development workflow to build, maintain, and improve scalable business applications.",
+      "Built and shipped full-stack features across a React/Next.js frontend and Node.js/Express REST APIs — including work on an existing point-of-sale (POS) application — improving page performance through code-splitting and lazy loading. Integrated reusable UI components, debugged integration issues, and collaborated in Agile teams using Git feature-branch workflows and code reviews to ship changes reliably.",
   },
 ];
 
